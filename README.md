@@ -9,23 +9,66 @@ I'm a **B.Tech Electronics and Communication Engineering** student at *Gayatri V
 
 ## 🌟 About Me
 
-- **Hardware + Software Fusion**: I bridge the gap between circuits and code with projects in IoT and Embedded Systems.
-- **Full-Stack Enthusiast**: Building seamless, scalable web apps with MERN stack is my jam.
-- **Problem Solver**: 100+ LeetCode problems solved, 2-star CodeChef rating (1520), and a knack for clean, efficient code.
-- **Lifelong Learner**: Certified in IoT, Python, and Full Stack Development—always chasing the next challenge.
+- **Hardware + Software Fusion**: Bridging circuits and code with IoT and Embedded Systems.
+- **Full-Stack Enthusiast**: Crafting scalable web apps with MERN stack.
+- **Problem Solver**: 100+ LeetCode problems solved, 2-star CodeChef rating (1520).
+- **Lifelong Learner**: Certified in IoT, Python, and Full Stack Development.
 
 ---
 
-## 🛠️ My Tech Skills
+## 🛠️ My Tech Stack
 
-| **Category**         | **Skills**                                                                 | **Progress**                                                                                   |
-|-----------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Languages**         | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c) C, ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) C++, ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) Python, ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) JavaScript | ![90%](https://progress-bar.dev/90/?title=) |
-| **Web Development**   | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) HTML, ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) CSS, ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) TailwindCSS | ![85%](https://progress-bar.dev/85/?title=) |
-| **Frameworks**        | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) React.js, ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) Node.js, ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) Express.js | ![85%](https://progress-bar.dev/85/?title=) |
-| **Tools**             | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) GitHub, ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) VS Code, ![Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-FF6200?style=flat-square&logo=xilinx) Xilinx Vivado, ![Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0078D4?style=flat-square&logo=cisco) Cisco Packet Tracer | ![80%](https://progress-bar.dev/80/?title=) |
-| **Cloud/Databases**   | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) AWS (EC2, S3), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) MongoDB, ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql) SQL | ![75%](https://progress-bar.dev/75/?title=) |
-| **Specializations**   | ![IoT](https://img.shields.io/badge/-IoT-00A1D6?style=flat-square&logo=internet-of-things) IoT, ![VLSI](https://img.shields.io/badge/-VLSI-FF6200?style=flat-square&logo=microchip) VLSI, ![Embedded C](https://img.shields.io/badge/-Embedded%20C-A8B9CC?style=flat-square&logo=c) Embedded C | ![90%](https://progress-bar.dev/90/?title=) |
+### Languages
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c) **C**  
+  *Proficiency*: 🌟🌟🌟🌟🌟 (90%)  
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) **C++**  
+  *Proficiency*: 🌟🌟🌟🌟🌟 (90%)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) **Python**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (75%)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) **JavaScript**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (85%)  
+
+### Web Development
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) **HTML**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (85%)  
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) **CSS**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (85%)  
+- ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) **TailwindCSS**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (80%)  
+
+### Frameworks
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) **React.js**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (85%)  
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) **Node.js**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (85%)  
+- ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) **Express.js**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (85%)  
+
+### Tools
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) **Git/GitHub**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (80%)  
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) **VS Code**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (80%)  
+- ![Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-FF6200?style=flat-square&logo=xilinx) **Xilinx Vivado**  
+  *Proficiency*: 🌟🌟🌟☆☆ (70%)  
+- ![Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0078D4?style=flat-square&logo=cisco) **Cisco Packet Tracer**  
+  *Proficiency*: 🌟🌟🌟☆☆ (70%)  
+
+### Cloud & Databases
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) **AWS (EC2, S3)**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (75%)  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) **MongoDB**  
+  *Proficiency*: 🌟🌟🌟🌟☆ (80%)  
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql) **SQL**  
+  *Proficiency*: 🌟🌟🌟☆☆ (70%)  
+
+### Specializations
+- ![IoT](https://img.shields.io/badge/-IoT-00A1D6?style=flat-square&logo=internet-of-things) **IoT**  
+  *Proficiency*: 🌟🌟🌟🌟🌟 (90%)  
+- ![VLSI](https://img.shields.io/badge/-VLSI-FF6200?style=flat-square&logo=microchip) **VLSI**  
+  *Proficiency*: 🌟🌟🌟☆☆ (70%)  
+- ![Embedded C](https://img.shields.io/badge/-Embedded%20C-A8B9CC?style=flat-square&logo=c) **Embedded C**  
+  *Proficiency*: 🌟🌟🌟🌟🌟 (90%)  
 
 ---
 
@@ -33,17 +76,17 @@ I'm a **B.Tech Electronics and Communication Engineering** student at *Gayatri V
 
 ### [Farm Directory System](https://github.com/bhargav676/farm-directory-system)
 - **What it does**: A role-based platform for farmers to manage and sell products directly to buyers.
-- **Tech**: MERN Stack, Role-Based Access Control (RBAC), MongoDB
-- **Highlights**: Secure authentication, 30% profit boost for farmers by cutting middlemen.
+- **Tech**: MERN Stack, RBAC, MongoDB
+- **Highlights**: Secure authentication, 30% profit boost for farmers.
 
 ### [Electronics E-Commerce Platform](https://github.com/bhargav676/electronics-ecommerce)
-- **What it does**: A MERN stack store for 100+ electronic components with project guides.
+- **What it does**: MERN stack store for 100+ electronic components with project guides.
 - **Tech**: React.js, Node.js, Express.js, MongoDB, YouTube API
-- **Highlights**: Dual dashboards (Admin & Customer), real-time interaction, 10+ dynamic tutorials.
+- **Highlights**: Dual dashboards, real-time interaction, 10+ tutorials.
 
 ### [RFID-Based Smart Book Management System](https://github.com/bhargav676/rfid-book-system)
 - **What it does**: Real-time book tracking with RFID technology.
-- **Tech**: Embedded C, RFID, Microcontrollers, LCD Display
+- **Tech**: Embedded C, RFID, Microcontrollers, LCD
 - **Highlights**: 60% faster tracking, 90% reduction in unauthorized exchanges.
 
 ---
@@ -58,8 +101,8 @@ I'm a **B.Tech Electronics and Communication Engineering** student at *Gayatri V
 ## 🏆 Achievements & Certifications
 
 - **NPTEL Certifications**: IoT, C Programming, Python, Full Stack Development
-- **Competitive Programming**: 100+ LeetCode problems solved, 2-star CodeChef rating (1520)
-- **Internships**: AWS Cloud (AICTE-Eduskills), Embedded Systems Developer (AICTE-Eduskills)
+- **Competitive Programming**: 100+ LeetCode problems, 2-star CodeChef (1520)
+- **Internships**: AWS Cloud (AICTE-Eduskills), Embedded Systems (AICTE-Eduskills)
 
 ---
 
@@ -75,7 +118,7 @@ I'm a **B.Tech Electronics and Communication Engineering** student at *Gayatri V
 
 ## 🎯 What’s Next?
 
-I’m on the hunt for **Full-Stack Development** or **IoT** roles where I can build scalable web apps or smart systems that impact lives. I’m diving into **AWS cloud integrations**, mastering **advanced React patterns**, and exploring **real-time IoT applications**. Open to opportunities—let’s create something groundbreaking together! 💼
+I’m hunting for **Full-Stack Development** or **IoT** roles to build impactful, scalable solutions. Currently sharpening my skills in **AWS cloud integrations**, **advanced React patterns**, and **real-time IoT systems**. Ready to collaborate or join a team—let’s innovate together! 💼
 
 ![Job Hunt](https://img.shields.io/badge/Status-Job%20Hunting-brightgreen?style=for-the-badge&logo=briefcase)
 
