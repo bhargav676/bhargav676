@@ -93,8 +93,8 @@ I'm a **B.Tech Electronics and Communication Engineering** student at *Gayatri V
 - ![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=vercel) [bhargav676.vercel.app](https://portfolio-six-peach-31.vercel.app/)
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin) [K Bhargava Prasad](https://www.linkedin.com/in/k-bhargava-prasad-6842b0291/)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [bhargav676](https://github.com/bhargav676)
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode) [Your LeetCode Profile](https://leetcode.com/yourusername) *(Update with your link)*
-- ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef) [Your CodeChef Profile](https://www.codechef.com/users/yourusername) *(Update with your link)*
+- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode) [Your LeetCode Profile](https://leetcode.com/u/Bhargav12083/)
+- ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef) [Your CodeChef Profile](https://www.codechef.com/users/bhargav_83) 
 - ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail) [bhargavaprasadkagitala@gmail.com](mailto:bhargavaprasadkagitala@gmail.com)
 
 ---
