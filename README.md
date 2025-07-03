@@ -1,116 +1,160 @@
-# 👋 Hey there! I'm Kagitala Bhargava Prasad
-
-I'm a **B.Tech Electronics and Communication Engineering** student at *Gayatri Vidya Parishad College of Engineering* (CGPA: 9.18), fueled by a passion for **IoT**, **Embedded Systems**, and **Full-Stack Development**. I thrive on turning ideas into functional systems—whether it's coding a MERN stack app, designing RFID solutions, or deploying cloud infrastructure. Welcome to my GitHub, where innovation meets code! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhargav676&color=blueviolet)  
-*Last Updated: March 28, 2025*
+<div align="center">
+  <h1>Hey there, I'm Bhargava Prasad! 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=36BCF7¢er=true&vCenter=true&width=550&lines=Full-Stack+Developer+ specializing+in+IoT;Building+bridges+between+hardware+and+software;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🌟 About Me
+### 👨‍💻 About Me
 
-- **Hardware + Software Fusion**: Bridging circuits and code with IoT and Embedded Systems.
-- **Full-Stack Enthusiast**: Crafting scalable web apps with MERN stack.
-- **Problem Solver**: 100+ LeetCode problems solved, 2-star CodeChef rating (1520).
-- **Lifelong Learner**: Certified in IoT, Python, and Full Stack Development.
-
----
-
-## 🛠️ My Tech Stack
-
-### Languages
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c) **C** - ★★★★★ (90%)  
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) **C++** - ★★★★★ (90%)  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) **Python** - ★★★★☆ (75%)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) **JavaScript** - ★★★★☆ (85%)  
-
-### Web Development
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) **HTML** - ★★★★☆ (85%)  
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) **CSS** - ★★★★☆ (85%)  
-- ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) **TailwindCSS** - ★★★★☆ (80%)  
-
-### Frameworks
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) **React.js** - ★★★★☆ (85%)  
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) **Node.js** - ★★★★☆ (85%)  
-- ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) **Express.js** - ★★★★☆ (85%)  
-
-### Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) **Git/GitHub** - ★★★★☆ (80%)  
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) **VS Code** - ★★★★☆ (80%)  
-- ![Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-FF6200?style=flat-square&logo=xilinx) **Xilinx Vivado** - ★★★☆☆ (70%)  
-- ![Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0078D4?style=flat-square&logo=cisco) **Cisco Packet Tracer** - ★★★☆☆ (70%)  
-
-### Cloud & Databases
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) **AWS (EC2, S3)** - ★★★★☆ (75%)  
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) **MongoDB** - ★★★★☆ (80%)  
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql) **SQL** - ★★★☆☆ (70%)  
-
-### Specializations
-- ![IoT](https://img.shields.io/badge/-IoT-00A1D6?style=flat-square&logo=internet-of-things) **IoT** - ★★★★★ (90%)  
-- ![VLSI](https://img.shields.io/badge/-VLSI-FF6200?style=flat-square&logo=microchip) **VLSI** - ★★★☆☆ (70%)  
-- ![Embedded C](https://img.shields.io/badge/-Embedded%20C-A8B9CC?style=flat-square&logo=c) **Embedded C** - ★★★★★ (90%)  
-
-✨ *Note: ★★★★★ = Mastered, ★★★★☆ = Advanced, ★★★☆☆ = Intermediate*
+<table>
+  <tr>
+    <td width="65%">
+      <p>I'm an <strong>Electronics and Communication Engineering</strong> student who loves to build things. My passion lies in creating seamless, end-to-end systems—from designing firmware for 💡 <strong>IoT & Embedded Systems</strong> to developing robust and scalable 🌐 <strong>Full-Stack (MERN)</strong> web applications.</p>
+      <ul>
+        <li>🎓 <strong>Education:</strong> B.Tech in ECE at GVPCE (CGPA: 9.1)</li>
+        <li>🚀 <strong>Currently Exploring:</strong> Advanced AWS integrations and real-time data pipelines.</li>
+        <li>🎯 <strong>Goal:</strong> To build innovative products that solve complex problems.</li>
+      </ul>
+    </td>
+    <td width="35%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVpa2t2eGk5aDB0czYzbzF3enZod3A1NWJ0eGRmOWY2MnlzNWk3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u23zXEvNsIbfO/giphy.gif" width="220px" alt="Coding GIF" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Featured Projects
+### 🛠️ My Tech Stack
 
-### [Farm Directory System](https://github.com/bhargav676/farm-directory-system)
-- **What it does**: A role-based platform for farmers to manage and sell products directly to buyers.
-- **Tech**: MERN Stack, RBAC, MongoDB
-- **Highlights**: Secure authentication, 30% profit boost for farmers.
-
-### [Electronics E-Commerce Platform](https://github.com/bhargav676/electronics-ecommerce)
-- **What it does**: MERN stack store for 100+ electronic components with project guides.
-- **Tech**: React.js, Node.js, Express.js, MongoDB, YouTube API
-- **Highlights**: Dual dashboards, real-time interaction, 10+ tutorials.
-
-### [RFID-Based Smart Book Management System](https://github.com/bhargav676/rfid-book-system)
-- **What it does**: Real-time book tracking with RFID technology.
-- **Tech**: Embedded C, RFID, Microcontrollers, LCD
-- **Highlights**: 60% faster tracking, 90% reduction in unauthorized exchanges.
-
----
-
-## 📊 GitHub Stats
-
-![Bhargava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargav676&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav676&layout=compact&theme=dracula)
-
----
-
-## 🏆 Achievements & Certifications
-
-- **NPTEL Certifications**: IoT, C Programming, Python, Full Stack Development
-- **Competitive Programming**: 100+ LeetCode problems, 2-star CodeChef (1520)
-- **Internships**: AWS Cloud (AICTE-Eduskills), Embedded Systems (AICTE-Eduskills)
-
----
-
-## 🌐 Let’s Connect!
-
-- ![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=vercel) [bhargav676.vercel.app](https://portfolio-six-peach-31.vercel.app/)
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin) [K Bhargava Prasad](https://www.linkedin.com/in/k-bhargava-prasad-6842b0291/)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [bhargav676](https://github.com/bhargav676)
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode) [Your LeetCode Profile](https://leetcode.com/u/Bhargav12083/)
-- ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef) [Your CodeChef Profile](https://www.codechef.com/users/bhargav_83) 
-- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail) [bhargavaprasadkagitala@gmail.com](mailto:bhargavaprasadkagitala@gmail.com)
-
----
-
-## 🎯 What’s Next?
-
-I’m hunting for **Full-Stack Development** or **IoT** roles to build impactful, scalable solutions. Currently sharpening my skills in **AWS cloud integrations**, **advanced React patterns**, and **real-time IoT systems**. Ready to collaborate or join a team—let’s innovate together! 💼
-
-![Job Hunt](https://img.shields.io/badge/Status-Job%20Hunting-brightgreen?style=for-the-badge&logo=briefcase)
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Embedded C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Tools & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ✨ Dynamic Vibes
+### 🚀 My Featured Projects
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&lines=Code.+Build.+Innovate.;Full-Stack+%7C+IoT+%7C+Embedded;Thanks+for+visiting!)  
-
-
+<table width="100%">
+  <!-- Project 1 -->
+  <tr>
+    <td width="35%" align="center">
+      <!-- IMPORTANT: Replace this with a GIF/image of YOUR project! -->
+      <a href="https://github.com/bhargav676/farm-directory-system">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pmaDFnOGY2eXV2NmFmNTluZTVrZ201OGE3cXh1a2lza2N5a3JqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I_AMgII3CSeis/giphy.gif" alt="Farm Directory System" width="200" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/bhargav676/farm-directory-system">Farm Directory System</a></h3>
+      <p>A full-stack MERN platform with role-based access control (RBAC) that connects farmers directly with buyers, empowering them to manage and sell their products efficiently.</p>
+      <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <!-- Project 2 -->
+  <tr>
+    <td width="35%" align="center">
+      <!-- IMPORTANT: Replace this with a GIF/image of YOUR project! -->
+      <a href="https://github.com/bhargav676/">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0czA5cWV3OTF4cXRtb2h4eHh3YXhtdWczYW8yYmV5aDFubHN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn96Wi3i1S142G4/giphy.gif" alt="Water Quality Monitoring System" width="200" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/bhargav676/">Water Quality Monitoring System</a></h3>
+      <p>An IoT system with a live React dashboard to visualize real-time water quality data from an ESP32 gateway, featuring interactive maps and automated alerts for sensor anomalies.</p>
+      <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-E7342C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <!-- Project 3 -->
+  <tr>
+    <td width="35%" align="center">
+      <!-- IMPORTANT: Replace this with a GIF/image of YOUR project! -->
+      <a href="https://github.com/bhargav676/rfid-book-system">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG00dnF5Z2NtcTJ3ZXc3MXJibHlrb2VpNGI4ZDRtNWtva21ob3N5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="RFID Smart Book Management" width="200" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/bhargav676/rfid-book-system">RFID Smart Book Management</a></h3>
+      <p>An embedded system that uses RFID technology and an ESP32 to track library books in real-time, preventing unauthorized exchanges and streamlining the checkout process.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Embedded C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/RFID-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/ESP32-E7342C?style=flat-square&logo=espressif&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 📊 My GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav676&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" alt="Bhargava's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhargav676&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav676&layout=compact&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://portfolio-six-peach-31.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/k-bhargava-prasad-6842b0291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Bhargav12083/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:bhargavaprasadkagitala@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
