@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hey there, I'm Bhargava Prasad! 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=36BCF7¢er=true&vCenter=true&width=550&lines=Full-Stack+Developer+ specializing+in+IoT;Building+bridges+between+hardware+and+software;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,7 +18,7 @@
     </td>
     <td width="35%">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVpa2t2eGk5aDB0czYzbzF3enZod3A1NWJ0eGRmOWY2MnlzNWk3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u23zXEvNsIbfO/giphy.gif" width="220px" alt="Coding GIF" />
+        <img src='./profile.jpg'/>
       </div>
     </td>
   </tr>
@@ -85,7 +84,7 @@
     <td width="35%" align="center">
       <!-- IMPORTANT: Replace this with a GIF/image of YOUR project! -->
       <a href="https://github.com/bhargav676/farm-directory-system">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pmaDFnOGY2eXV2NmFmNTluZTVrZ201OGE3cXh1a2lza2N5a3JqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I_AMgII3CSeis/giphy.gif" alt="Farm Directory System" width="200" />
+        <img src='./p8.png' width="400" />
       </a>
     </td>
     <td width="65%">
@@ -104,7 +103,7 @@
     <td width="35%" align="center">
       <!-- IMPORTANT: Replace this with a GIF/image of YOUR project! -->
       <a href="https://github.com/bhargav676/">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0czA5cWV3OTF4cXRtb2h4eHh3YXhtdWczYW8yYmV5aDFubHN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn96Wi3i1S142G4/giphy.gif" alt="Water Quality Monitoring System" width="200" />
+        <img src='./p2.jpg' width="400" />
       </a>
     </td>
     <td width="65%">
@@ -123,7 +122,7 @@
     <td width="35%" align="center">
       <!-- IMPORTANT: Replace this with a GIF/image of YOUR project! -->
       <a href="https://github.com/bhargav676/rfid-book-system">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG00dnF5Z2NtcTJ3ZXc3MXJibHlrb2VpNGI4ZDRtNWtva21ob3N5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="RFID Smart Book Management" width="200" />
+        <img src='./p4.jpg' width="400" />
       </a>
     </td>
     <td width="65%">
@@ -141,20 +140,29 @@
 ---
 
 ### 📊 My GitHub Stats & Activity
-
-<div align="center">
+<div style="background-color:#000000; color:#ffffff; padding:20px; border-radius:10px;" align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=bhargav676&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" alt="Bhargava's GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bhargav676&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav676&layout=compact&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
-</div>
 
----
+  <br/><br/>
 
-### 🤝 Let's Connect!
+  ### 🤝 Let's Connect!
 
-<div align="center">
-  <a href="https://portfolio-six-peach-31.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/k-bhargava-prasad-6842b0291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Bhargav12083/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:bhargavaprasadkagitala@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-six-peach-31.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/k-bhargava-prasad-6842b0291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Bhargav12083/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:bhargavaprasadkagitala@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
